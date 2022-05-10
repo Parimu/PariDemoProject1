@@ -1,9 +1,9 @@
 Class NewlookDemoProject
 {
 
-1223434
-1223444
+public class NewlookDemo
+{
 
-
-
+WebDriver driver = new ChromeDriver();
+}
 }
