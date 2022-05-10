@@ -12,9 +12,14 @@
 Class NewlookDemoProject
 {
 
+<<<<<<< HEAD
 1223434
 1223444hhhhhh
+=======
+>>>>>>> branch 'main' of https://github.com/Parimu/PariDemoProject1.git
 
 
+WebDriver driver = new ChromeDriver();
+driver.quit();
 
 }
