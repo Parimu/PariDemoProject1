@@ -7,10 +7,7 @@ updated at 20.47
 Class NewlookDemoProject
 {
 
-Recently updated
->>>>>>> branch 'main' of https://github.com/Parimu/PariDemoProject1.git
-
-
+Trial branch
 WebDriver driver = new ChromeDriver();
 driver.close();
 driver.quit();
