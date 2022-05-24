@@ -12,7 +12,7 @@ public class Tryout_01 {
 		driver.manage().window().maximize();
 		driver.get("https://www.newlook.com/uk/login");
 		
-		driver.close();
+		
 
 	}
 
