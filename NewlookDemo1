@@ -17,5 +17,5 @@ hhhhhhhhhhhh
 
 WebDriver driver = new ChromeDriver();
 driver.close();
-
+driver.quit();
 }
